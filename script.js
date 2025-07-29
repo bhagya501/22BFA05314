@@ -1,4 +1,4 @@
-const analytics = [
+const analytics = [];
 function generateShortCode() {
   const chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
   let code = "";
